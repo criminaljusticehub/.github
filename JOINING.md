@@ -43,7 +43,7 @@ If you’re a CJH staff member, you must create new repositories under the CJH o
 
 You must follow the guidance on:
 
-- [storing source code](https://gds-way.cloudapps.digital/standards/source-code.html#publish-open-source-code) from The GDS Way
+- [storing source code](https://gds-way.cloudapps.digital) from The GDS Way
 - [making source code open and reusable]([https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable](https://github.com/criminaljusticehub/inside-cjh/blob/main/CJH%20Service%20Standard.md)) from the Service Standard
 
 Give your new repository a name that fully describes what it is, for example aws-route53-parked-cjhuk-domain.
