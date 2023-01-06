@@ -1,6 +1,6 @@
 ## Welcome to the Criminal Justice Hub (CJH) GitHub :wave:
 
-CJH helps people to navigate the Criminal Justice System in England and Wales, and is part of [Conviction](https://www.conviction.org.uk)
+CJH helps people to navigate the Criminal Justice System in England and Wales, and is part of [Conviction](https://www.github.com/convictioncares)
 
 You can read more here:
 
