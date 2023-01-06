@@ -1,4 +1,4 @@
-## Welcome to the Criminal Justice Hub (CJH)'s GitHub :wave:
+## Welcome to the Criminal Justice Hub (CJH) GitHub :wave:
 
 CJH helps people to navigate the Criminal Justice System in England and Wales, and is part of Conviction.
 
