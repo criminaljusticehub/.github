@@ -26,7 +26,7 @@ Before you can join, you must:
 
 Ask to become a member of CJH’s organisation on GitHub by either:
 
-- posting a message on the #criminaljusticehub MS Teams channel
+- posting a message on the Criminal Justice Hub Design Team Google Space
 - emailing [design-team@criminaljusticehub.org.uk](mailto:design-team@criminaljusticehub.org.uk)
 
 If you were already a member of the Conviction organisation, you’ll remain a member for now.
@@ -44,6 +44,6 @@ If you’re a CJH staff member, you must create new repositories under the CJH o
 You must follow the guidance on:
 
 - [storing source code](https://gds-way.cloudapps.digital) from The GDS Way
-- [making source code open and reusable]([https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable](https://github.com/criminaljusticehub/inside-cjh/blob/main/CJH%20Service%20Standard.md)) from the Service Standard
+- [making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) from the Service Standard
 
 Give your new repository a name that fully describes what it is, for example aws-route53-parked-cjhuk-domain.
