@@ -4,7 +4,7 @@ There are now separate organisations on GitHub for Conviction and the Criminal J
 
 The organisations are:
 
-- [Conviction](https://github.com/convictioncic) (also known as Conviction)
+- [Conviction](https://github.com/convictioncares) (also known as Conviction)
 - [Criminal Justice Hub](https://github.com/criminaljusticehub) (also known as CJH)
 
 This is to make it simpler to manage access between and across our two projects.
