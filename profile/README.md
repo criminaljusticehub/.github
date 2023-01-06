@@ -1,4 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 ## Welcome to the Criminal Justice Hub (CJH)'s GitHub :wave:
 
 CJH helps people to navigate the Criminal Justice System in England and Wales, and is part of Conviction.
