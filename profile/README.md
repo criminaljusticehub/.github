@@ -5,6 +5,6 @@ CJH helps people to navigate the Criminal Justice System in England and Wales, a
 You can read more here:
 
 - [Criminal Justice Hub Website](https://www.criminaljusticehub.org.uk)
-- [Joining the Criminal Justice Hub’s organisation on GitHub](JOINING.md)
+- [Joining the Criminal Justice Hub’s organisation on GitHub](https://github.com/criminaljusticehub/.github/blob/main/JOINING.md)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/crimjusticehub?style=social)
