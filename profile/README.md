@@ -12,12 +12,12 @@ You can read more here:
 
 **The CJH Design Team for 2023/2024 is 👥**
 
-@Ryan4Reform
-@MichalGow
-@caaueda
-@katiekamola
-@kjoshi8
-@Yifan-FENG
+- @Ryan4Reform 
+- @MichalGow 
+- @caaueda 
+- @katiekamola 
+- @kjoshi8 
+- @Yifan-FENG 
 
 **Credit where credit is due 👍**
 
@@ -37,4 +37,7 @@ Many of Conviction’s staff, past and present, have contributed to the site’s
 
 **Want to help?**  
 
-[Find out about how to get involved.](https://www.criminaljusticehub.org.uk/criminal-justice-hub-volunteer-vacancies/)
+- [Find out how to volunteer with us](https://www.criminaljusticehub.org.uk/criminal-justice-hub-volunteer-vacancies/) 
+- [Contribute and get involved in the CJH Discussions channel](https://github.com/criminaljusticehub/.github/discussions/new/choose/) 
+- [View our Roadmap for 2023/2024](https://github.com/orgs/criminaljusticehub/projects/8/) 
+- [View what we're currently upto on our Sprintboard](https://github.com/orgs/criminaljusticehub/projects/9/) 
