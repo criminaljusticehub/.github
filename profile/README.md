@@ -17,7 +17,10 @@ You can read more here:
 - @caaueda 
 - @katiekamola 
 - @kjoshi8 
-- @Yifan-FENG 
+- @Yifan-FENG
+- @jennychilds1
+- @KAnniss
+- @SayaniMitraUX
 
 **Credit where credit is due 👍**
 
