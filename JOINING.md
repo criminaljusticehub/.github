@@ -26,7 +26,7 @@ Before you can join, you must:
 
 Ask to become a member of CJH’s organisation on GitHub by either:
 
-- posting a message on the Criminal Justice Hub Service Design Team [General Teams Channel](https://teams.microsoft.com/l/channel/19%3acJzjJ4vnM7hJT3huHnFjkPAEWRphtl58zZ9W86Fd9QI1%40thread.tacv2/General?groupId=3b900d8d-56a1-44d1-ac4c-f1b6fc871070&tenantId=0c8c5000-87e8-425d-9ff9-b5749101f83d)
+- posting a message on the [Criminal Justice Hub Service Design Team General Teams Channel](https://teams.microsoft.com/l/channel/19%3acJzjJ4vnM7hJT3huHnFjkPAEWRphtl58zZ9W86Fd9QI1%40thread.tacv2/General?groupId=3b900d8d-56a1-44d1-ac4c-f1b6fc871070&tenantId=0c8c5000-87e8-425d-9ff9-b5749101f83d)
 - emailing [design-team@criminaljusticehub.org.uk](mailto:design-team@criminaljusticehub.org.uk)
 
 If you were already a member of the Conviction organisation, you’ll remain a member for now.
