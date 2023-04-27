@@ -4,7 +4,7 @@ There are now separate organisations on GitHub for Conviction and the Criminal J
 
 The organisations are:
 
-- [Conviction](https://github.com/convictioncares) (also known as Conviction)
+- [Conviction](https://github.com/convictioncares)
 - [Criminal Justice Hub](https://github.com/criminaljusticehub) (also known as CJH)
 
 This is to make it simpler to manage access between and across our two projects.
@@ -26,7 +26,7 @@ Before you can join, you must:
 
 Ask to become a member of CJH’s organisation on GitHub by either:
 
-- posting a message on the Criminal Justice Hub Design Team Google Space
+- posting a message on the Criminal Justice Hub Service Design Team [General Teams Channel](https://teams.microsoft.com/l/channel/19%3acJzjJ4vnM7hJT3huHnFjkPAEWRphtl58zZ9W86Fd9QI1%40thread.tacv2/General?groupId=3b900d8d-56a1-44d1-ac4c-f1b6fc871070&tenantId=0c8c5000-87e8-425d-9ff9-b5749101f83d)
 - emailing [design-team@criminaljusticehub.org.uk](mailto:design-team@criminaljusticehub.org.uk)
 
 If you were already a member of the Conviction organisation, you’ll remain a member for now.
@@ -46,4 +46,4 @@ You must follow the guidance on:
 - [storing source code](https://gds-way.cloudapps.digital) from The GDS Way
 - [making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) from the Service Standard
 
-Give your new repository a name that fully describes what it is, for example aws-route53-parked-cjhuk-domain.
+Give your new repository a name that fully describes what it is, for example cjh-roadmap.
