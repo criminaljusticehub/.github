@@ -1,26 +1,24 @@
-## Welcome to the Criminal Justice Hub (CJH) GitHub :wave:
+## Welcome to the Criminal Justice Hub (CJH) GitHub Page :wave:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/crimjusticehub)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/showcase/criminal-justice-hub-uk/)
 
-CJH helps people to navigate the criminal justice system in England and Wales, and is part of [Conviction](https://www.github.com/convictioncares)
+The Criminal Justice Hub (CJH) helps people to navigate the criminal justice system in England and Wales, and is part of [Conviction](https://www.conviction.org.uk)
 
 You can read more here:
 
 - [Criminal Justice Hub Website](https://www.criminaljusticehub.org.uk)
 - [Joining the Criminal Justice Hub’s organisation on GitHub](https://github.com/criminaljusticehub/.github/blob/main/JOINING.md)
 
-**The CJH Design Team for 2023/2024 is 👥**
+**The CJH Service Design Team for 2023/2024 is 👥**
 
-- @Ryan4Reform 
-- @MichalGow 
-- @caaueda 
-- @katiekamola 
-- @kjoshi8 
-- @Yifan-FENG
-- @jennychilds1
-- @KAnniss
-- @SayaniMitraUX
+- Ryan (Service Owner)
+- Katie (Product Manager)
+- Nelson (Product Manager)
+- Anna (Content Design Lead)
+- Sayani (Design Team Lead)
+- Camila (User Research Team Lead)
+- Michal (Technical Team Lead)
 
 **Credit where credit is due 👍**
 
@@ -28,7 +26,7 @@ You can read more here:
 
 An amazing team of volunteers run the site, answer support emails, maintain the database of tasks and guides and so much more. 
 
-Thanks to our previous volunteers Maureen Campbell, Kenny Baird, Robert Ingram, Emma Dick, Natasha Rhoden, Nikolaos Makridis, Olivia Rowland, Connor Malone, Layla Aslett, Ashley Calder, Christian Lawrence, Maeve Jennings and Stacey, Dan and Stacey from the RubyDuke Communications Team.
+Thanks to our previous volunteers 
 
 **Thanks are also due**  
 
