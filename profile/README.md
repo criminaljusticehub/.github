@@ -12,9 +12,9 @@ You can read more here:
 
 **The CJH Service Design Team for 2023/2024 is 👥**
 
-- [@Ryan4Reform] (https://www.github.com/Ryan4Reform) (Service Owner)
-- [@lfriedman1321] (https://www.github.com/lfriedman1321) (Product Manager)
-- [@japhetbonney] (https://www.github.com/japhetbonney) (Agile Delivery Manager)
+- [@Ryan4Reform](https://www.github.com/Ryan4Reform) (Service Owner)
+- [@lfriedman1321](https://www.github.com/lfriedman1321) (Product Manager)
+- [@japhetbonney](https://www.github.com/japhetbonney) (Agile Delivery Manager)
 
 **Credit where credit is due 👍**
 
