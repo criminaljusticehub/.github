@@ -12,9 +12,9 @@ You can read more here:
 
 **The CJH Service Design Team for 2023/2024 is 👥**
 
-- Ryan (Service Owner)
-- Leah (Product Manager)
-- Japhet (Agile Delivery Manager)
+- [@Ryan4Reform] (https://www.github.com/Ryan4Reform) (Service Owner)
+- [@lfriedman1321] (https://www.github.com/lfriedman1321) (Product Manager)
+- [@japhetbonney] (https://www.github.com/japhetbonney) (Agile Delivery Manager)
 
 **Credit where credit is due 👍**
 
@@ -34,7 +34,7 @@ Many of Conviction’s staff, past and present, have contributed to the site’s
 
 **Want to help?**  
 
-- [Find out how to volunteer with us](https://www.conviction.org.uk/get-involved/volunteer) 
+- [Find out how to volunteer with us](https://volunteer.conviction.org.uk/) 
 - [Contribute and get involved in the CJH Discussions channel](https://github.com/criminaljusticehub/.github/discussions/new/choose/) 
-- [View our Roadmap for 2023/2024](https://github.com/orgs/criminaljusticehub/projects/) 
-- [View what we're currently up to on our Sprintboard](https://github.com/orgs/criminaljusticehub/projects/) 
+- [View our Roadmap for 2023/2024](https://github.com/orgs/criminaljusticehub/projects/41) 
+- [View what we're currently up to on our Sprintboard](https://github.com/orgs/criminaljusticehub/projects/40) 
