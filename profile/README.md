@@ -37,4 +37,4 @@ Many of Conviction’s staff, past and present, have contributed to the site’s
 - [Find out how to volunteer with us](https://volunteer.conviction.org.uk/) 
 - [Contribute and get involved in the CJH Discussions channel](https://github.com/criminaljusticehub/.github/discussions/new/choose/) 
 - [View our Roadmap for 2023/2024](https://github.com/orgs/criminaljusticehub/projects/41) 
-- [View what we're currently up to on our Sprintboard](https://github.com/orgs/criminaljusticehub/projects/40) 
+- [View what we're currently up to on our Sprintboard](https://github.com/orgs/criminaljusticehub/projects/44) 
