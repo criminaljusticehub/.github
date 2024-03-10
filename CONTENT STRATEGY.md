@@ -1,4 +1,3 @@
-```markdown
 # Content Strategy
 
 ## Introduction
@@ -63,4 +62,3 @@ Begin to prioritise which pages to work on using analytics to understand what pa
 Start tagging each page in a traffic light system of high, medium, and low priority content in the github content wall. This will help us to understand what pages we need to migrate first.
 
 Remember, it’s always easier to add in content at a later date than to migrate everything just in case we might need it later. Now is the best time to really hone down our content and only keep what we need.
-```
